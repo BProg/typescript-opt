@@ -1,0 +1,2 @@
+# Optional type for typescript
+
